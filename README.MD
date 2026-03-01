@@ -2,7 +2,7 @@
 
 Nombre: Kevin Jimenez
 Curso: Lógica de Programación
-Fecha: 28 de Febrero 2026
+Fecha: 01/03/2026
 
 ---
 
