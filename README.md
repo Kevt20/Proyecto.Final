@@ -1,28 +1,25 @@
-# 🌐 TechImpact Explorer
+# Proyecto Final
 
 > **El impacto de las nuevas tecnologías en la sociedad: visualización del futuro**
 
 ---
 
-## 📌 Datos del Proyecto
+## Datos del Proyecto
 
-| Campo | Detalle |
-|-------|---------|
-| **Autor** | Kevin Jiménez |
-| **GitHub** | @KevinJimenez |
-| **Lenguaje** | Python 3.x |
-| **Fecha** | 2025 |
-| **Proyecto** | Proyecto Integrador Final — 4 Unidades |
+**Autor** Kevin Jiménez
+
+
+**Proyecto** Proyecto Integrador Final 
 
 ---
 
-## 🎯 Objetivo del Programa
+##  Objetivo del Programa
 
 Explorar, analizar y visualizar el impacto de las **nuevas tecnologías emergentes** en distintos ámbitos de la sociedad (social, laboral, educativo y de salud). El programa permite comparar tecnologías, generar gráficas estadísticas y exportar reportes completos, todo mediante una interfaz de consola interactiva en Python.
 
 ---
 
-## 🚀 Funcionalidades Principales
+##  Funcionalidades Principales
 
 | # | Opción | Descripción |
 |---|--------|-------------|
@@ -39,7 +36,7 @@ Explorar, analizar y visualizar el impacto de las **nuevas tecnologías emergent
 
 ---
 
-## 🗂️ Unidades Integradas
+##  Unidades Integradas
 
 ### Unidad 1 — Arquitectura y Diagramas
 - Definición del problema y alcance del software
@@ -173,8 +170,4 @@ promedio = suma / len(tecnologias)
 ranking = sorted(tecnologias, key=lambda t: t["impacto_social"], reverse=True)
 ```
 
----
 
-## 📝 Licencia
-
-Proyecto académico — Kevin Jiménez © 2025
