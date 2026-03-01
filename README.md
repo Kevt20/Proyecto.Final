@@ -126,14 +126,6 @@ python main.py
 1. Inteligencia Artificial
 2. Redes Sociales
 3. Internet de las Cosas (IoT)
-4. Blockchain
-5. Realidad Virtual y Aumentada
-6. Automatización Robótica
-7. Computación en la Nube
-8. Ciberseguridad
-9. Telemedicina
-10. Vehículos Autónomos
-
 ---
 
 ## 📊 Ejemplo de Programación Funcional (Unidad 4)
