@@ -19,21 +19,6 @@ Explorar, analizar y visualizar el impacto de las **nuevas tecnologías emergent
 
 ---
 
-##  Funcionalidades Principales
-
-| # | Opción | Descripción |
-|---|--------|-------------|
-| 1 | Ver todas las tecnologías | Lista completa del dataset con impacto social |
-| 2 | Analizar una tecnología | Análisis detallado con ventajas, desventajas y tendencia |
-| 3 | Comparar dos tecnologías | Comparativa lado a lado en 4 indicadores |
-| 4 | Estadísticas generales | Promedios, máximos, mínimos y distribución por categoría |
-| 5 | Buscar por categoría | Filtrado por automatización, comunicación, salud, etc. |
-| 6 | Tecnologías de alto impacto | Filtrado funcional con `filter()` + `lambda` |
-| 7 | Ranking de impacto social | Ordenamiento con `sorted()` + `lambda` |
-| 8 | Gráfica comparativa | Barras agrupadas por indicador con `matplotlib` |
-| 9 | Gráfica de tendencia | Línea de adopción tecnológica por año |
-| 10 | Exportar reporte | Genera archivo `.txt` con análisis completo |
-
 ---
 
 ##  Unidades Integradas
