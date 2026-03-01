@@ -1,6 +1,6 @@
 # Proyecto Final - Juego de Preguntas: Tecnologia y Sociedad
 # Autor: Kevin Jimenez
-# Fecha: 2025
+# Fecha: 1/03/2026
 # Descripcion: Juego de preguntas sobre el impacto de las nuevas
 # tecnologias en la sociedad. Integra los temas de las 4 unidades.
 
